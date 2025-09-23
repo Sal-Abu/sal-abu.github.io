@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Hello, Hello</title>
+    <link>http://localhost:1313/</link>
+    <description>Recent content on Hello, Hello</description>
+    <generator>Hugo</generator>
+    <language>en</language>
+    <copyright>&lt;a href=&#34;https://creativecommons.org/licenses/by-nc/4.0/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;CC BY-NC 4.0&lt;/a&gt;</copyright>
+    <lastBuildDate>Thu, 09 Jan 2025 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>About Me</title>
+      <link>http://localhost:1313/about/</link>
+      <pubDate>Thu, 09 Jan 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/about/</guid>
+      <description>&lt;p&gt;I work at the crossroads of technology and law. On one side, I’ve built a career in IT and cybersecurity; managing systems, digging into network traffic, and homelabbing tech environments to sharpen my technical skills. On the other, I hold an Honours degree in Criminology and the Law from the University of Toronto, where I spent four years studying how rules, institutions, and human behavior shape the world we live in.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Contact Me</title>
+      <link>http://localhost:1313/contact/</link>
+      <pubDate>Thu, 09 Jan 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/contact/</guid>
+      <description>&lt;p&gt;I’d love to hear from you! Whether you’re reaching out for professional inquiries, collaborations, or just to connect, here are the best ways to get in touch:&lt;/p&gt;&#xA;&lt;hr&gt;&#xA;&lt;h2 id=&#34;-email&#34;&gt;📧 Email&lt;/h2&gt;&#xA;&lt;p&gt;&lt;a href=&#34;mailto:salahiddin.abubakar@gmail.com&#34;&gt;salahiddin.abubakar@gmail.com&lt;/a&gt;&lt;/p&gt;&#xA;&lt;hr&gt;&#xA;&lt;h2 id=&#34;-linkedin&#34;&gt;💼 LinkedIn&lt;/h2&gt;&#xA;&lt;p&gt;&lt;a href=&#34;https://www.linkedin.com/in/salahiddin-abubakar/&#34;&gt;www.linkedin.com/in/salahiddin-abubakar/&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Placeholder</title>
+      <link>http://localhost:1313/posts/2025/01/placeholder/</link>
+      <pubDate>Thu, 09 Jan 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/posts/2025/01/placeholder/</guid>
+      <description>&lt;p&gt;Placeholder&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>
