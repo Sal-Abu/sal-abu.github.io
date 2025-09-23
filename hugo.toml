@@ -73,7 +73,7 @@ disableHugoGeneratorInject = false
   # Home subtitle of the index page.
   #
   homeSubtitle = """Sal here, welcome to my website!"""
-  homeSubtitle3 = """ Or Click on one of the links below to contact me or navigate to my socials"""
+  homeSubtitle3 = """ Or click on one of the links below to contact me or navigate to my socials"""
 homeSubtitle2 = """Check out the menu bar to learn more about me or check out my writings!"""
 
 

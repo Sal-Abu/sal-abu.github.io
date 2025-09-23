@@ -1,5 +1,6 @@
 +++
-title = "Contradictions in Holy Texts are, for the Most Part, Irrelevant"
+title = "Contradictions in Holy Texts Are, For The Most Part, Irrelevant"
+
 date = "2025-01-09"
 aliases = [""]
 name = "Contradictions in Holy Texts"
@@ -29,13 +30,13 @@ Stories aren't so rigid, they don’t need to align like engineering schematics.
 
 Contradictions are not divine typos. They are what you get when stories persist through time, passing through the filter of human culture.
 
-1. **Oral storytelling**: Before anything was written down, these stories were shared out loud. Anyone who’s played “telephone” knows how that goes. Changes weren’t flaws, they were the norm.
+1. **Oral storytelling**: Before anything was written down, these stories were shared aloud. Anyone who’s played “broken telephone” knows how that goes. Changes are inevitable in the oral transmission of stories and knowledge.
 
-2. **Cultural lenses**: Different communities shaped the same story according to their values. The nuances of these values are not so easily captured in the words of their stories.
+2. **Cultural lenses**: Different communities shaped the same story according to their values. The nuances of these values are never so easily captured in the literal words of their stories.
 
 3. **Character voices**: Just because someone in a story says “thus saith the Lord” doesn’t mean the statement was written for you as a universal law. Sometimes it’s rhetoric, sometimes it’s culture, sometimes it’s just one character’s perspective.
 
-4. **Transmission problems**: Even if God delivered a perfect revelation, how exactly would a human being transmit something beyond human comprehension to other humans? Language itself is a filter.
+4. **Transmission problems**: Even if God delivered a perfect revelation, how exactly would a human being, especially a barely literate one, transmit that "divine knowledge", something beyond human comprehension, to other humans? Language itself is a filter.
 
 In any situation in which information is conveyed through spoken language, contradictions are inevitable. They’re the fingerprints of humanity on stories that claim to touch the divine.
 
@@ -63,7 +64,7 @@ Now scale that up. The distance between human understanding and divine reality i
 
 ## Why Contradictions Do Not Matter
 
-So why don’t contradictions matter? Because for the vast majority of people, the value of holy texts isn't in their factual precision. Their value and power lies in their ability to inspire reflection, guide communities, instill purpose, and help people wrestle with the big questions and ground their sense of self somewhere in the universe.
+So why don’t contradictions matter? Because for the vast majority of people, the value of holy texts isn't in their factual precision. Their value and power lies in their ability to inspire reflection, guide communities, instill purpose, help people wrestle with the big questions, and ground their sense of self somewhere in the universe.
 
 Critics who point to contradictions often miss this. They assume religion collapses if the text isn’t flawless. But most religious life has never depended on flawless texts. It has depended on stories reshaped through tradition, culture, and practice.
 
@@ -76,11 +77,3 @@ Holy texts endure not because every line agrees, but because the stories still w
 Contradictions in holy texts aren’t flaws, they’re cultural artifacts. They show us how culture shapes meaning and how humans struggle to express the inexpressible.
 
 Whether it’s the Bible, the Quran, the Vedas, or any other sacred writing, contradictions don’t erase their importance. They remind us that these are human-told stories reaching toward something bigger, not instruction manuals demanding literal precision.
-
-Holy texts endure not because they are flawless, but because they still matter. And the next time someone tries to win points by pulling out a contradiction, the right response might just be: *Congratulations, you’ve discovered that humans tell stories like humans. Now what?*## Why Contradictions Do Not Matter
-
-So why don’t contradictions matter? Because the purpose of holy texts isn't factual precision. Their value and power lies in their ability inspire reflection, guide communities, instill purpose, and help people wrestle with the big questions and ground their sense of self somewhere in the universe.
-
-Critics who point to contradictions often miss this. They assume religion collapses if the text isn’t flawless. But most religious life has never depended on flawless texts. It has depended on stories reshaped through tradition, culture, and practice.
-
-Holy texts endure not because every line agrees, but because the stories still work. They still guide, still inspire, still comfort, still provoke, still anchor communities across generations.
