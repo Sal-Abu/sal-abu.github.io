@@ -19,7 +19,7 @@ publishDir   = "public"
     dir = ':cacheDir/images'
 
 buildDrafts  = true
-buildFuture  = false
+buildFuture  = true
 buildExpired = false
 canonifyURLs = true
 
