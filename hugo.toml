@@ -1,7 +1,7 @@
 baseURL = "http://localhost:1313/"
 title   = "Hello, Hello"
 languageCode = "en-ca"
-theme = "hello-friend-ng"
+#theme = "hello-friend-ng"
 
 PygmentsCodeFences = true
 PygmentsStyle = "monokai"
