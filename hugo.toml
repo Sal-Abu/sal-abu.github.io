@@ -1,7 +1,6 @@
 baseURL = "http://localhost:1313/"
-title   = "Hello, Hello"
+title   = "Hello"
 languageCode = "en-ca"
-#theme = "hello-friend-ng"
 
 PygmentsCodeFences = true
 PygmentsStyle = "monokai"
@@ -73,8 +72,8 @@ disableHugoGeneratorInject = false
   # Home subtitle of the index page.
   #
   homeSubtitle = """Sal here, welcome to my website!"""
-  homeSubtitle3 = """ Or click on one of the links below to contact me or navigate to my socials"""
-homeSubtitle2 = """Check out the menu bar to learn more about me or check out my writings!"""
+  homeSubtitle3 = """ Or click on one of the links below to contact me or navigate to my other socials"""
+homeSubtitle2 = """Check out the menubar above for my articles, guides, and projects"""
 
 
   # Set a background for the homepage
@@ -231,16 +230,20 @@ homeSubtitle2 = """Check out the menu bar to learn more about me or check out my
   # # # # # # # # # # # # # # # # # # # # # # # # # # # # #
   #
   [[params.social]]
-    name = "youtube"
-    url  = "https://www.youtube.com/@sal_ay"
-
-  [[params.social]]
     name = "email"
     url  = "mailto:salahiddin.abubakar@gmail.com"
 
   [[params.social]]
+    name = "youtube"
+    url  = "https://www.youtube.com/@sal_ay"
+
+  [[params.social]]
     name = "instagram"
     url  = "https://www.instagram.com/salahiddin.s.a/"
+  
+  [[params.social]]
+    name = "github"
+    url  = "https://github.com/Sal-Abu"
 
   [[params.social]]
     name = "linkedin"
@@ -265,10 +268,18 @@ homeSubtitle2 = """Check out the menu bar to learn more about me or check out my
     name       = "About"
     url        = "about/"
   [[menu.main]]
-    identifier = "posts"   # Blog
-    name       = "Blog/Writings"
-    url        = "posts/"
-  [[menu.main]]
     identifier = "contact"   # Contact
     name       = "Contact"
     url        = "contact/"
+  [[menu.main]]
+    identifier = "posts"   # Blog
+    name       = "Writings"
+    url        = "posts/"
+  [[menu.main]]
+    identifier = "guides"   # Guide
+    name       = "Guides"
+    url        = "guides/"
+  [[menu.main]]
+    identifier = "projects"   # Project
+    name       = "Projects"
+    url        = "projects/"

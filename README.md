@@ -1,1 +1,1 @@
-Check out live site @ https://sal-abu.github.io/
+Check out live site @ https://sal-abu.com

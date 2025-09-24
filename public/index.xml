@@ -1,14 +1,28 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Hello, Hello</title>
+    <title>Hello</title>
     <link>http://localhost:1313/</link>
-    <description>Recent content on Hello, Hello</description>
+    <description>Recent content on Hello</description>
     <generator>Hugo</generator>
     <language>en</language>
     <copyright>&lt;a href=&#34;https://creativecommons.org/licenses/by-nc/4.0/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;CC BY-NC 4.0&lt;/a&gt;</copyright>
-    <lastBuildDate>Thu, 09 Jan 2025 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 15 Jul 2025 00:00:00 +0000</lastBuildDate>
     <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Ortholiner &#39;Trackpoint&#39; Keyboard.</title>
+      <link>http://localhost:1313/projects/ortholiner-trackpoint-keyboard/</link>
+      <pubDate>Tue, 15 Jul 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/projects/ortholiner-trackpoint-keyboard/</guid>
+      <description>&lt;p&gt;Details to be added.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Windows 11 Local Account Bypass</title>
+      <link>http://localhost:1313/guides/to-be-added/</link>
+      <pubDate>Wed, 05 Feb 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/guides/to-be-added/</guid>
+      <description>&lt;p&gt;To be added.&lt;/p&gt;</description>
+    </item>
     <item>
       <title>About Me</title>
       <link>http://localhost:1313/about/</link>
