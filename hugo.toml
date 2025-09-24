@@ -73,7 +73,7 @@ disableHugoGeneratorInject = false
   #
   homeSubtitle = """Sal here, welcome to my website!"""
   homeSubtitle3 = """ Or click on one of the links below to contact me or navigate to my other socials"""
-homeSubtitle2 = """Check out the menubar above for my articles, guides, and projects"""
+homeSubtitle2 = """Check out the menu above for my articles, guides, and projects"""
 
 
   # Set a background for the homepage

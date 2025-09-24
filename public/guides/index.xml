@@ -11,9 +11,23 @@
     <atom:link href="http://localhost:1313/guides/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Windows 11 Local Account Bypass</title>
-      <link>http://localhost:1313/guides/to-be-added/</link>
+      <link>http://localhost:1313/guides/windows-11-bypass/</link>
       <pubDate>Wed, 05 Feb 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/guides/to-be-added/</guid>
+      <guid>http://localhost:1313/guides/windows-11-bypass/</guid>
+      <description>&lt;p&gt;To be added.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Building a Simple, Elegant, and Customizable Notetaking and Management System using Obsidian</title>
+      <link>http://localhost:1313/guides/notetaking-in-obsidian/</link>
+      <pubDate>Thu, 09 Jan 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/guides/notetaking-in-obsidian/</guid>
+      <description>&lt;p&gt;To be added&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Building a Simple, Elegant, and Customizable Notetaking and Management System using Text Files and Shell Scripts</title>
+      <link>http://localhost:1313/guides/notetaking-in-text-files/</link>
+      <pubDate>Thu, 09 Jan 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/guides/notetaking-in-text-files/</guid>
       <description>&lt;p&gt;To be added.&lt;/p&gt;</description>
     </item>
   </channel>
