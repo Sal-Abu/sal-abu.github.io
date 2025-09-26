@@ -1,7 +1,7 @@
 {
 	"version": 3,
 	"file": "main.css",
-	"sourceRoot": "/home/salahiddin/Documents/Code/Web Development/Website - Sal-Abu",
+	"sourceRoot": "/home/salahiddin/Code/Web Development/Website - Sal-Abu",
 	"sources": [
 		"assets/scss/main.scss",
 		"assets/scss/_normalize.scss",

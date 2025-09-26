@@ -5,32 +5,63 @@ aliases = ["about-us","about"]
 [ author ]
   name = "About"
 +++
-I work at the crossroads of technology and law. On one side, I’ve built a career in IT and cybersecurity; managing systems, digging into network traffic, and homelabbing tech environments to sharpen my technical skills. On the other, I hold an Honours degree in Criminology and the Law from the University of Toronto, where I spent four years studying how rules, institutions, and human behavior shape the world we live in.  
+**Systems Administration · Automation · Infrastructure · Legal Insight · Regulatory Compliance**  
 
-That combination gives me a perspective I rely on every day: cybersecurity isn’t just about firewalls and logs. It’s about people, accountability, and the legal frameworks that define how technology should be used. My interests go beyond technical defense to the evolving legislation around **cybersecurity, privacy, and artificial intelligence**. I’m especially fascinated by how new laws and standards will shape the way organizations adopt emerging technologies responsibly.  
+## Who I Am  
+I’m **Salahiddin**, though most people just call me **Sal**. I work as a **Systems Administrator** and **Regulatory Compliance Consultant**, with a focus on keeping infrastructure **reliable, secure, and easy to manage**. My background is a little unusual. I studied **computer science**, along with **law and socio-legal studies**. This gave me both the technical skills to work with systems and the analytical skills to think critically about the rules, policies, and people around them.  
 
----
+That mix shaped the way I work today. I like **breaking down complex problems**, creating **clear processes**, and making sure systems don’t just run, but run in a way people can actually depend on.  
 
-## What I Bring
-- A **hands-on technical background** in IT administration, scripting, security monitoring, and digital forensics.  
-- A **deep understanding of the law and criminal behavior**, with a focus on risk, compliance, and the societal impacts of technology.  
-- A drive to **connect the dots** between legal obligations, business needs, and technical realities.  
+## What I Work On In My Free Time  
+- **Homelab experiments** and reproducible infrastructure projects that test and refine real-world IT setups.
+- **Writing** about technology, systems thinking, and how organizations adapt to the tools they use.
+- Publishing **automation workflows and infrastructure prototypes** on GitHub.  
 
----
+## Skills and Capabilities  
+- **Systems Administration**: servers, VMs, and infrastructure deployment and management.
+- **Identity & Access**: **Active Directory**, **Azure AD**, user management, group policies, and VPN configuration. 
+- **Cloud & Collaboration**: **SharePoint administration**, **Microsoft 365 services**, and **mobile device management (MDM)**.
+- **Automation & Scripting**: **Python**, **shell scripting**, **SQL**, and workflow automation with **Power Automate**.
+- **Platform Support**: **Windows** (10, 11), **Debian Linux**, **macOS**, and mobile platforms. 
+- **IT Operations**: **ITSM practices**, **incident response**, and clear, usable documentation. 
+- **Law & Socio-Legal Skills**: **research**, **policy analysis**, and knowledge of **compliance and governance frameworks**.  
 
-## Beyond the Resume
+## Selected Work Highlights  
 
-I enjoy building projects that let me test new ideas. From setting up a SOC homelab and mapping adversary techniques to MITRE ATT&CK, to analyzing threat reports and translating findings into practical defenses. At the same time, I keep an eye on the broader picture: how AI, data governance, and privacy regulation are changing the expectations for technology professionals.  
+### Infrastructure & Systems  
+- Deployed and maintained **servers**, **VMs**, and virtualization platforms  
+- Configured **Active Directory**, **Azure AD**, **DNS**, **DHCP**, and file services  
+- Managed **SharePoint** environments and integrated **Microsoft 365** tools  
+- Applied **patch management**, **backups**, and **recovery testing** to ensure reliability  
 
-Outside of work, I’m the kind of person who likes exploring how systems, technical or legal, fit together; and how they can be improved when they don’t.  
+### Automation & Efficiency  
+- Automated **provisioning** and recurring IT tasks with **scripts and workflows**  
+- Standardized **system configurations** to improve consistency and reduce incidents  
+- Streamlined **onboarding and offboarding** with **MDM**, **account setup**, and **device management**  
 
----
+### Monitoring & Support  
+- Implemented **monitoring**, **logging**, and **alerting** to track system health  
+- Troubleshot **hardware and software** issues across **Windows**, **Linux**, and **macOS**  
+- Produced **documentation** and **runbooks** to make support more efficient  
 
-## Looking Ahead
+### Governance & Compliance  
+- Coordinated **change management** for system upgrades and deployments  
+- Ensured compliance with **policies**, **security standards**, and **governance frameworks**  
+- Applied legal training to produce **structured, reliable documentation**  
 
-I see my path continuing at the overlap of **technology, security, and law**. Whether that’s through defending systems against real-world threats, guiding compliance efforts, or contributing to the discussions around AI governance, my goal is to stay adaptable and keep learning as both technology and law evolve.  
+## How I Approach Problems  
+1. **Discover**: map technical and organizational requirements  
+2. **Design**: create solutions that are efficient and maintainable  
+3. **Deploy**: implement using repeatable, tested steps  
+4. **Automate**: streamline repetitive workflows  
+5. **Observe**: monitor and refine systems over time  
+6. **Document**: write processes so others can understand and apply them  
 
----
+## Current Goals  
+- Build stronger expertise in **infrastructure-as-code** and **scalable automation**  
+- Turn **homelab projects** into reusable **production-grade templates**  
+- Explore and write about the overlap between **technology**, **governance**, and **systems thinking**  
 
-If that resonates with you, I’d love to connect.  
+---  
 
+If any of this resonates with you, I’d love to connect.
