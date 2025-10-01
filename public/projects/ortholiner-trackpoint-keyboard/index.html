@@ -6,7 +6,9 @@
 
 <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
 <meta name="author" content="">
-<meta name="description" content="Details to be added.
+<meta name="description" content="I have a problem: I’m very particular about how my keyboards feel.
+Since I travel a lot, I use laptops more than desktops, which means I’m often stuck with laptop keyboards. After trying plenty of machines, I landed on ThinkPads. Their keyboards and TrackPoints make it so much easier to move around my workspace while keeping my hands in place on the home row.
+Now I can’t go back to a keyboard without a TrackPoint. The issue is that I want features that no modern ThinkPad will give me.
 " />
 <meta name="keywords" content="" />
 <meta name="robots" content="noodp" />
@@ -16,7 +18,7 @@
 
     <title>
         
-            Ortholiner &#39;Trackpoint&#39; Keyboard. :: Hello  — Sal Abu&#39;s Website
+            Building a Custom Ortholinear Keyboard with a &#39;TrackPoint&#39; for the Framework Laptop 13 :: Hello  — Sal Abu&#39;s Website
         
     </title>
 
@@ -40,24 +42,30 @@
 
 
 
-  <meta itemprop="name" content="Ortholiner &#39;Trackpoint&#39; Keyboard.">
-  <meta itemprop="description" content="Details to be added.">
+  <meta itemprop="name" content="Building a Custom Ortholinear Keyboard with a &#39;TrackPoint&#39; for the Framework Laptop 13">
+  <meta itemprop="description" content="I have a problem: I’m very particular about how my keyboards feel.
+Since I travel a lot, I use laptops more than desktops, which means I’m often stuck with laptop keyboards. After trying plenty of machines, I landed on ThinkPads. Their keyboards and TrackPoints make it so much easier to move around my workspace while keeping my hands in place on the home row.
+Now I can’t go back to a keyboard without a TrackPoint. The issue is that I want features that no modern ThinkPad will give me.">
   <meta itemprop="datePublished" content="2025-07-15T00:00:00+00:00">
   <meta itemprop="dateModified" content="2025-07-15T00:00:00+00:00">
-  <meta itemprop="wordCount" content="4">
+  <meta itemprop="wordCount" content="626">
   <meta itemprop="image" content="http://localhost:1313/">
 
   <meta name="twitter:card" content="summary_large_image">
   <meta name="twitter:image" content="http://localhost:1313/">
-  <meta name="twitter:title" content="Ortholiner &#39;Trackpoint&#39; Keyboard.">
-  <meta name="twitter:description" content="Details to be added.">
+  <meta name="twitter:title" content="Building a Custom Ortholinear Keyboard with a &#39;TrackPoint&#39; for the Framework Laptop 13">
+  <meta name="twitter:description" content="I have a problem: I’m very particular about how my keyboards feel.
+Since I travel a lot, I use laptops more than desktops, which means I’m often stuck with laptop keyboards. After trying plenty of machines, I landed on ThinkPads. Their keyboards and TrackPoints make it so much easier to move around my workspace while keeping my hands in place on the home row.
+Now I can’t go back to a keyboard without a TrackPoint. The issue is that I want features that no modern ThinkPad will give me.">
 
 
 
     <meta property="og:url" content="http://localhost:1313/projects/ortholiner-trackpoint-keyboard/">
   <meta property="og:site_name" content="Hello">
-  <meta property="og:title" content="Ortholiner &#39;Trackpoint&#39; Keyboard.">
-  <meta property="og:description" content="Details to be added.">
+  <meta property="og:title" content="Building a Custom Ortholinear Keyboard with a &#39;TrackPoint&#39; for the Framework Laptop 13">
+  <meta property="og:description" content="I have a problem: I’m very particular about how my keyboards feel.
+Since I travel a lot, I use laptops more than desktops, which means I’m often stuck with laptop keyboards. After trying plenty of machines, I landed on ThinkPads. Their keyboards and TrackPoints make it so much easier to move around my workspace while keeping my hands in place on the home row.
+Now I can’t go back to a keyboard without a TrackPoint. The issue is that I want features that no modern ThinkPad will give me.">
   <meta property="og:locale" content="en">
   <meta property="og:type" content="article">
     <meta property="article:section" content="projects">
@@ -140,14 +148,131 @@
         </div>
 
         <article>
-            <h2 class="post-title"><a href="http://localhost:1313/projects/ortholiner-trackpoint-keyboard/">Ortholiner &lsquo;Trackpoint&rsquo; Keyboard.</a></h2>
+            <h2 class="post-title"><a href="http://localhost:1313/projects/ortholiner-trackpoint-keyboard/">Building a Custom Ortholinear Keyboard with a &lsquo;TrackPoint&rsquo; for the Framework Laptop 13</a></h2>
 
             
             
             
 
             <div class="post-content">
-                <p>Details to be added.</p>
+                <p>I have a problem: I’m very particular about how my keyboards feel.</p>
+<p>Since I travel a lot, I use laptops more than desktops, which means I’m often stuck with laptop keyboards. After trying plenty of machines, I landed on ThinkPads. Their keyboards and TrackPoints make it so much easier to move around my workspace while keeping my hands in place on the home row.</p>
+<p>Now I can’t go back to a keyboard without a TrackPoint. The issue is that I want features that no modern ThinkPad will give me.</p>
+<p>That’s where the Framework 13 comes in. It’s modular, durable, repairable, and designed with openness in mind, which makes it the perfect base for tinkering.</p>
+<p>All that’s left is the keyboard. Easy enough, right?</p>
+<p>And that’s how this project started: redesigning the Framework’s baseplate to fit a custom ortholinear keyboard with deeper keys if I can manage it.</p>
+<h1 id="ongoing-project-log">Ongoing Project Log</h1>
+<p>I’m designing and building a <strong>custom ortholinear keyboard with a TrackPoint</strong> for the <strong>Framework Laptop 13</strong>. This will require <strong>replacing the entire input cover</strong>, including the stock keyboard and trackpad, with a fully custom design.</p>
+<p>The goal is to document each step so others can follow along, learn, and maybe even build their own.</p>
+<hr>
+<h2 id="-project-goals">🔍 Project Goals</h2>
+<ul>
+<li>Replace Framework’s default input cover with a <strong>custom ortholinear keyboard</strong>.</li>
+<li>Integrate a <strong>TrackPoint pointing stick</strong> between the central columns.</li>
+<li>Keep the design within the <strong>thin height limits</strong> of the Framework 13.</li>
+<li>Use a dedicated <strong>microcontroller (MCU)</strong> to handle the keyboard matrix + TrackPoint → expose as <strong>USB HID</strong>, no EC firmware hacks.</li>
+<li>Make the mod <strong>reversible</strong> by keeping the stock input cover intact.</li>
+</ul>
+<hr>
+<h2 id="-references--resources">📂 References &amp; Resources</h2>
+<ul>
+<li>Framework CAD files: <a href="https://github.com/FrameworkComputer">Framework GitHub</a></li>
+<li>Input cover &amp; spares: <a href="https://frame.work/marketplace">Framework Marketplace</a></li>
+</ul>
+<hr>
+<h2 id="-hardware-planning">🛠 Hardware Planning</h2>
+<h3 id="switches--keycaps">Switches + Keycaps</h3>
+<p>TBD.</p>
+<h3 id="trackpoint">TrackPoint</h3>
+<p>TBD.</p>
+<h3 id="controller-mcu">Controller (MCU)</h3>
+<p>TBD.</p>
+<h3 id="fabrication">Fabrication</h3>
+<p>TBD.</p>
+<hr>
+<h2 id="-firmware">⚙️ Firmware</h2>
+<ul>
+<li>Using <strong>QMK</strong> for wired connection and TrackPoint PS/2 support.</li>
+<li>Plan: configure matrix + TrackPoint as a <strong>USB HID device</strong> → plugs into Framework mainboard.</li>
+<li>Alternative: <strong>reuse Framework keyboard connector</strong> (advanced, higher risk).</li>
+</ul>
+<hr>
+<h2 id="-mechanical-design-plan">🖊 Mechanical Design Plan</h2>
+<ol>
+<li><strong>CAD work</strong>: extract input cover dimensions from Framework GitHub files.</li>
+<li><strong>Keyboard plate</strong>: design ortholinear grid in CAD → ~1.0–1.5 mm FR4 or aluminum.</li>
+<li><strong>Clearance checks</strong>:
+<ul>
+<li>Top: keycaps vs display bezel.</li>
+<li>Bottom: switch + PCB stack within ~6 mm depth.</li>
+</ul>
+</li>
+<li><strong>TrackPoint placement</strong>:
+<ul>
+<li>Between middle columns (like G/H/B).</li>
+<li>Reinforce plate cutout.</li>
+</ul>
+</li>
+<li><strong>Mouse buttons</strong>:
+<ul>
+<li>Option A: 3 physical buttons under spacebar.</li>
+<li>Option B: combos mapped in firmware (less tactile).</li>
+</ul>
+</li>
+</ol>
+<hr>
+<h2 id="-electrical-design-plan">🔌 Electrical Design Plan</h2>
+<ul>
+<li><strong>Matrix</strong>: diodes on every switch → wired into MCU GPIO.</li>
+<li><strong>TrackPoint</strong>: PS/2 wiring → MCU pins with pull-ups.</li>
+<li><strong>Connection</strong>:
+<ul>
+<li>Option A: USB HID device internally wired to a spare USB port.</li>
+<li>Option B: pinout hack to Framework EC (risky).</li>
+</ul>
+</li>
+</ul>
+<hr>
+<h2 id="-prototyping-workflow">🧪 Prototyping Workflow</h2>
+<ol>
+<li><strong>3D print</strong> early plate mockups with Choc cutouts.</li>
+<li><strong>Hand-wire</strong> a test matrix + TrackPoint to RP2040.</li>
+<li>Flash <strong>QMK</strong> with VIA support → confirm function.</li>
+<li>Test ergonomics → confirm TrackPoint placement.</li>
+<li>Once stable:
+<ul>
+<li>Full PCB design in KiCad/Eagle.</li>
+<li>Order first PCBs (JLCPCB/PCBWay).</li>
+</ul>
+</li>
+<li>Assemble test build in spare input cover.</li>
+</ol>
+<hr>
+<h2 id="-risks--challenges">⚠️ Risks / Challenges</h2>
+<ul>
+<li><strong>Height constraints</strong> → only Choc/low-profile switches work.</li>
+<li><strong>TrackPoint sourcing</strong> → need to secure hardware early.</li>
+<li><strong>Keycap availability</strong> → ortholinear Choc sets are niche.</li>
+<li><strong>Firmware complexity</strong> → avoid messing with Framework EC, stick to USB HID.</li>
+<li><strong>Prototyping cycle</strong> → expect multiple iterations before final fit.</li>
+</ul>
+<hr>
+<h2 id="-next-steps">📈 Next Steps</h2>
+<ul>
+<li>Download CAD files and measure input cover cavity depth.</li>
+<li>Finalize ortholinear layout (40% vs 60%).</li>
+<li>Order <strong>switches, keycaps, TrackPoint</strong> now (long lead times).</li>
+<li>Prototype a <strong>hand-wired test keyboard</strong>.</li>
+<li>Start documenting PCB design once prototype works.</li>
+</ul>
+<hr>
+<h2 id="-project-updates-log">🗓 Project Updates (log)</h2>
+<p>I’ll use this section as a <strong>changelog</strong> for progress updates:</p>
+<p>To be updated&hellip;</p>
+<hr>
+<h2 id="-stay-tuned">💬 Stay Tuned</h2>
+<p>This is a living project log. As I make progress, I’ll update this page with photos, CAD exports, firmware configs, and lessons learned.</p>
+<hr>
 
             </div>
         </article>
