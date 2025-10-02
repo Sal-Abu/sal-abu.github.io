@@ -7,14 +7,14 @@
     <generator>Hugo</generator>
     <language>en</language>
     <copyright>&lt;a href=&#34;https://creativecommons.org/licenses/by-nc/4.0/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;CC BY-NC 4.0&lt;/a&gt;</copyright>
-    <lastBuildDate>Tue, 15 Jul 2025 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 15 Sep 2025 00:00:00 +0000</lastBuildDate>
     <atom:link href="http://localhost:1313/projects/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Building a Custom Ortholinear Keyboard with a &#39;TrackPoint&#39; for the Framework Laptop 13</title>
-      <link>http://localhost:1313/projects/ortholiner-trackpoint-keyboard/</link>
-      <pubDate>Tue, 15 Jul 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/projects/ortholiner-trackpoint-keyboard/</guid>
-      <description>&lt;p&gt;I have a problem: I’m very particular about how my keyboards feel.&lt;/p&gt;&#xA;&lt;p&gt;Since I travel a lot, I use laptops more than desktops, which means I’m often stuck with laptop keyboards. After trying plenty of machines, I landed on ThinkPads. Their keyboards and TrackPoints make it so much easier to move around my workspace while keeping my hands in place on the home row.&lt;/p&gt;&#xA;&lt;p&gt;Now I can’t go back to a keyboard without a TrackPoint. The issue is that I want features that no modern ThinkPad will give me.&lt;/p&gt;</description>
+      <link>http://localhost:1313/projects/framework-laptop-13-ortholiner-trackpoint-keyboard/</link>
+      <pubDate>Mon, 15 Sep 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/projects/framework-laptop-13-ortholiner-trackpoint-keyboard/</guid>
+      <description>&lt;p&gt;&lt;img src=&#34;http://localhost:1313/projects/framework-laptop-13-ortholiner-trackpoint-keyboard/image.png&#34; alt=&#34;image&#34;&gt;&lt;/p&gt;&#xA;&lt;p&gt;I have a problem: I’m very particular about how my keyboards feel.&lt;/p&gt;&#xA;&lt;p&gt;Since I travel a lot, I use laptops more than desktops, which means I’m often stuck with laptop keyboards. After trying plenty of machines, I landed on ThinkPads. Their keyboards and TrackPoints make it so much easier to move around my workspace while keeping my hands in place on the home row.&lt;/p&gt;&#xA;&lt;p&gt;Now I can’t go back to a keyboard without a TrackPoint. The issue is that I want features that no modern ThinkPad will give me.&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>

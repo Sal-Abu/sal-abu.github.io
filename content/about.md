@@ -8,9 +8,9 @@ aliases = ["about-us","about"]
 **Systems Administration · Automation · Infrastructure · Legal Insight · Regulatory Compliance**  
 
 ## Who I Am  
-I’m **Salahiddin**, though most people just call me **Sal**. I work as a **Systems Administrator** and **Regulatory Compliance Consultant**, with a focus on keeping infrastructure **reliable, secure, and easy to manage**. My background is a little unusual. I studied **computer science**, along with **law and socio-legal studies**. This gave me both the technical skills to work with systems and the analytical skills to think critically about the rules, policies, and people around them.  
+I’m **Salahiddin**, though most people just call me **Sal**. I work as a **Systems Administrator** and **Regulatory Compliance Consultant**, with a focus on keeping infrastructure reliable, secure, and easy to manage. My background is a little unusual. I studied computer science, along with law and socio-legal studies. This gave me both the technical skills to work with systems and the analytical skills to think critically about the rules, policies, and people around them.  
 
-That mix shaped the way I work today. I like **breaking down complex problems**, creating **clear processes**, and making sure systems don’t just run, but run in a way people can actually depend on.  
+That mix shaped the way I work today. I like breaking down complex problems, creating clear processes, and making sure systems don’t just run, but run in a way people can actually depend on.  
 
 ## What I Work On In My Free Time  
 - **Homelab experiments** and reproducible infrastructure projects that test and refine real-world IT setups.
@@ -19,12 +19,12 @@ That mix shaped the way I work today. I like **breaking down complex problems**,
 
 ## Skills and Capabilities  
 - **Systems Administration**: servers, VMs, and infrastructure deployment and management.
-- **Identity & Access**: **Active Directory**, **Azure AD**, user management, group policies, and VPN configuration. 
-- **Cloud & Collaboration**: **SharePoint administration**, **Microsoft 365 services**, and **mobile device management (MDM)**.
-- **Automation & Scripting**: **Python**, **shell scripting**, **SQL**, and workflow automation with **Power Automate**.
-- **Platform Support**: **Windows** (10, 11), **Debian Linux**, **macOS**, and mobile platforms. 
-- **IT Operations**: **ITSM practices**, **incident response**, and clear, usable documentation. 
-- **Law & Socio-Legal Skills**: **research**, **policy analysis**, and knowledge of **compliance and governance frameworks**.  
+- **Identity & Access**: Active Directory, Azure AD, user management, group policies, and VPN configuration. 
+- **Cloud & Collaboration**: SharePoint administration, Microsoft 365 services, and mobile device management (MDM).
+- **Automation & Scripting**: Python, shell scripting, SQL, and workflow automation with Power Automate.
+- **Platform Support**: Windows (10, 11), Debian Linux, Fedora Linux, macOS, and mobile platforms. 
+- **IT Operations**: ITSM practices, incident response, and clear, usable documentation. 
+- **Law & Socio-Legal Skills**: research, policy analysis, and knowledge of compliance and governance frameworks.  
 
 ## Selected Work Highlights  
 
@@ -58,10 +58,9 @@ That mix shaped the way I work today. I like **breaking down complex problems**,
 6. **Document**: write processes so others can understand and apply them  
 
 ## Current Goals  
-- Build stronger expertise in **infrastructure-as-code** and **scalable automation**  
-- Turn **homelab projects** into reusable **production-grade templates**  
-- Explore and write about the overlap between **technology**, **governance**, and **systems thinking**  
-
+- Build stronger expertise in infrastructure-as-code and scalable automation  
+- Turn homelab projects into reusable production-grade templates
+- Product Design: Ortholiner Trackpoint Keyboard
 ---  
 
 If any of this resonates with you, I’d love to connect.

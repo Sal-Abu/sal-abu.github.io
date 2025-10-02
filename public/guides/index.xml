@@ -7,35 +7,35 @@
     <generator>Hugo</generator>
     <language>en</language>
     <copyright>&lt;a href=&#34;https://creativecommons.org/licenses/by-nc/4.0/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;CC BY-NC 4.0&lt;/a&gt;</copyright>
-    <lastBuildDate>Thu, 25 Sep 2025 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 02 Oct 2025 00:00:00 +0000</lastBuildDate>
     <atom:link href="http://localhost:1313/guides/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>Repurposing Computers that Cannot Install Windows 11</title>
-      <link>http://localhost:1313/guides/repurposing-computers/</link>
-      <pubDate>Thu, 25 Sep 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/guides/repurposing-computers/</guid>
-      <description>&lt;p&gt;To be added.&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Windows 11 Local Account Bypass</title>
-      <link>http://localhost:1313/guides/windows-11-bypass/</link>
-      <pubDate>Wed, 05 Feb 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/guides/windows-11-bypass/</guid>
-      <description>&lt;p&gt;To be added.&lt;/p&gt;</description>
-    </item>
     <item>
       <title>Building a Simple, Elegant, and Customizable Notetaking and Management System using Obsidian</title>
       <link>http://localhost:1313/guides/notetaking-in-obsidian/</link>
-      <pubDate>Thu, 09 Jan 2025 00:00:00 +0000</pubDate>
+      <pubDate>Thu, 02 Oct 2025 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/guides/notetaking-in-obsidian/</guid>
       <description>&lt;p&gt;To be added&lt;/p&gt;</description>
     </item>
     <item>
       <title>Building a Simple, Elegant, and Customizable Notetaking and Management System using Text Files and Shell Scripts</title>
       <link>http://localhost:1313/guides/notetaking-in-text-files/</link>
-      <pubDate>Thu, 09 Jan 2025 00:00:00 +0000</pubDate>
+      <pubDate>Thu, 02 Oct 2025 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/guides/notetaking-in-text-files/</guid>
       <description>&lt;p&gt;To be added.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Windows 11 Local Account Bypass</title>
+      <link>http://localhost:1313/guides/windows-11-bypass/</link>
+      <pubDate>Thu, 02 Oct 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/guides/windows-11-bypass/</guid>
+      <description>&lt;p&gt;To be added.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>How to Repurpose an Old Computer That Can’t Run Windows 11 with Linux</title>
+      <link>http://localhost:1313/guides/repurposing-computers/</link>
+      <pubDate>Thu, 25 Sep 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/guides/repurposing-computers/</guid>
+      <description>&lt;p&gt;Not every computer was built with Windows 11 in mind. Between TPM 2.0 requirements, secure boot, and newer hardware standards, a lot of perfectly good machines are being left behind. The good news is that doesn’t mean your older laptop or desktop has to gather dust. Linux distributions like &lt;strong&gt;Ubuntu&lt;/strong&gt; and &lt;strong&gt;Linux Mint&lt;/strong&gt; can breathe new life into it, giving you a fast, secure, and modern system without the licensing headaches.&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>

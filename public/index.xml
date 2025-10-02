@@ -7,14 +7,42 @@
     <generator>Hugo</generator>
     <language>en</language>
     <copyright>&lt;a href=&#34;https://creativecommons.org/licenses/by-nc/4.0/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;CC BY-NC 4.0&lt;/a&gt;</copyright>
-    <lastBuildDate>Thu, 25 Sep 2025 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 02 Oct 2025 00:00:00 +0000</lastBuildDate>
     <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Repurposing Computers that Cannot Install Windows 11</title>
+      <title>Building a Simple, Elegant, and Customizable Notetaking and Management System using Obsidian</title>
+      <link>http://localhost:1313/guides/notetaking-in-obsidian/</link>
+      <pubDate>Thu, 02 Oct 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/guides/notetaking-in-obsidian/</guid>
+      <description>&lt;p&gt;To be added&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Building a Simple, Elegant, and Customizable Notetaking and Management System using Text Files and Shell Scripts</title>
+      <link>http://localhost:1313/guides/notetaking-in-text-files/</link>
+      <pubDate>Thu, 02 Oct 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/guides/notetaking-in-text-files/</guid>
+      <description>&lt;p&gt;To be added.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Windows 11 Local Account Bypass</title>
+      <link>http://localhost:1313/guides/windows-11-bypass/</link>
+      <pubDate>Thu, 02 Oct 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/guides/windows-11-bypass/</guid>
+      <description>&lt;p&gt;To be added.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>How to Repurpose an Old Computer That Can’t Run Windows 11 with Linux</title>
       <link>http://localhost:1313/guides/repurposing-computers/</link>
       <pubDate>Thu, 25 Sep 2025 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/guides/repurposing-computers/</guid>
-      <description>&lt;p&gt;To be added.&lt;/p&gt;</description>
+      <description>&lt;p&gt;Not every computer was built with Windows 11 in mind. Between TPM 2.0 requirements, secure boot, and newer hardware standards, a lot of perfectly good machines are being left behind. The good news is that doesn’t mean your older laptop or desktop has to gather dust. Linux distributions like &lt;strong&gt;Ubuntu&lt;/strong&gt; and &lt;strong&gt;Linux Mint&lt;/strong&gt; can breathe new life into it, giving you a fast, secure, and modern system without the licensing headaches.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Building a Custom Ortholinear Keyboard with a &#39;TrackPoint&#39; for the Framework Laptop 13</title>
+      <link>http://localhost:1313/projects/framework-laptop-13-ortholiner-trackpoint-keyboard/</link>
+      <pubDate>Mon, 15 Sep 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/projects/framework-laptop-13-ortholiner-trackpoint-keyboard/</guid>
+      <description>&lt;p&gt;&lt;img src=&#34;http://localhost:1313/projects/framework-laptop-13-ortholiner-trackpoint-keyboard/image.png&#34; alt=&#34;image&#34;&gt;&lt;/p&gt;&#xA;&lt;p&gt;I have a problem: I’m very particular about how my keyboards feel.&lt;/p&gt;&#xA;&lt;p&gt;Since I travel a lot, I use laptops more than desktops, which means I’m often stuck with laptop keyboards. After trying plenty of machines, I landed on ThinkPads. Their keyboards and TrackPoints make it so much easier to move around my workspace while keeping my hands in place on the home row.&lt;/p&gt;&#xA;&lt;p&gt;Now I can’t go back to a keyboard without a TrackPoint. The issue is that I want features that no modern ThinkPad will give me.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Phones and Modern Tech Are Needlessly Evil</title>
@@ -24,13 +52,6 @@
       <description>&lt;p&gt;Everyone carries a phone these days. It connects us, entertains us, and helps us work. On the surface, it feels like a miracle tool. But the truth underneath is darker. Phones and modern technology are not just harmful, they are &lt;em&gt;needlessly&lt;/em&gt; harmful. The way the industry works ensures waste, exploitation, and manipulation. None of it is inevitable. It happens because it makes money.&lt;/p&gt;&#xA;&lt;h2 id=&#34;the-human-cost-of-materials&#34;&gt;The Human Cost of Materials&lt;/h2&gt;&#xA;&lt;p&gt;Every phone starts with raw materials like cobalt, lithium, and rare earth elements. These resources don’t come free. Many are mined in places where conflict, child labor, and human rights abuses are widespread. In the Democratic Republic of the Congo, industrial cobalt and copper mining has led to forced evictions, unsafe conditions, and severe abuses of human rights. &lt;a href=&#34;https://www.amnesty.org/en/latest/news/2023/09/drc-cobalt-and-copper-mining-for-batteries-leading-to-human-rights-abuses/&#34;&gt;Amnesty International reports&lt;/a&gt; detail how entire communities are displaced and rights violated.&lt;/p&gt;</description>
     </item>
     <item>
-      <title>Building a Custom Ortholinear Keyboard with a &#39;TrackPoint&#39; for the Framework Laptop 13</title>
-      <link>http://localhost:1313/projects/ortholiner-trackpoint-keyboard/</link>
-      <pubDate>Tue, 15 Jul 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/projects/ortholiner-trackpoint-keyboard/</guid>
-      <description>&lt;p&gt;I have a problem: I’m very particular about how my keyboards feel.&lt;/p&gt;&#xA;&lt;p&gt;Since I travel a lot, I use laptops more than desktops, which means I’m often stuck with laptop keyboards. After trying plenty of machines, I landed on ThinkPads. Their keyboards and TrackPoints make it so much easier to move around my workspace while keeping my hands in place on the home row.&lt;/p&gt;&#xA;&lt;p&gt;Now I can’t go back to a keyboard without a TrackPoint. The issue is that I want features that no modern ThinkPad will give me.&lt;/p&gt;</description>
-    </item>
-    <item>
       <title>Why Women Fear Men and Why Men Misunderstand That Fear</title>
       <link>http://localhost:1313/posts/2025/06/why-women-fear-men-and-why-men-misunderstand-that-fear/</link>
       <pubDate>Sun, 29 Jun 2025 00:00:00 +0000</pubDate>
@@ -38,32 +59,11 @@
       <description>&lt;h2 id=&#34;introduction&#34;&gt;Introduction&lt;/h2&gt;&#xA;&lt;p&gt;A lot of young men get frustrated when women treat them with suspicion or guardedness. They read that as unfair, irrational, or even hostile. I have seen this reaction often: the sense that women are being cold or unjust, that men are being punished for the crimes of others. And yet, beneath the surface, the fear women carry is not irrational. It is rooted in lived reality, in the mental habits women are forced to adopt, and in the way society amplifies certain dangers.&lt;/p&gt;</description>
     </item>
     <item>
-      <title>Windows 11 Local Account Bypass</title>
-      <link>http://localhost:1313/guides/windows-11-bypass/</link>
-      <pubDate>Wed, 05 Feb 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/guides/windows-11-bypass/</guid>
-      <description>&lt;p&gt;To be added.&lt;/p&gt;</description>
-    </item>
-    <item>
       <title>About Me</title>
       <link>http://localhost:1313/about/</link>
       <pubDate>Thu, 09 Jan 2025 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/about/</guid>
-      <description>&lt;p&gt;&lt;strong&gt;Systems Administration · Automation · Infrastructure · Legal Insight · Regulatory Compliance&lt;/strong&gt;&lt;/p&gt;&#xA;&lt;h2 id=&#34;who-i-am&#34;&gt;Who I Am&lt;/h2&gt;&#xA;&lt;p&gt;I’m &lt;strong&gt;Salahiddin&lt;/strong&gt;, though most people just call me &lt;strong&gt;Sal&lt;/strong&gt;. I work as a &lt;strong&gt;Systems Administrator&lt;/strong&gt; and &lt;strong&gt;Regulatory Compliance Consultant&lt;/strong&gt;, with a focus on keeping infrastructure &lt;strong&gt;reliable, secure, and easy to manage&lt;/strong&gt;. My background is a little unusual. I studied &lt;strong&gt;computer science&lt;/strong&gt;, along with &lt;strong&gt;law and socio-legal studies&lt;/strong&gt;. This gave me both the technical skills to work with systems and the analytical skills to think critically about the rules, policies, and people around them.&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Building a Simple, Elegant, and Customizable Notetaking and Management System using Obsidian</title>
-      <link>http://localhost:1313/guides/notetaking-in-obsidian/</link>
-      <pubDate>Thu, 09 Jan 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/guides/notetaking-in-obsidian/</guid>
-      <description>&lt;p&gt;To be added&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Building a Simple, Elegant, and Customizable Notetaking and Management System using Text Files and Shell Scripts</title>
-      <link>http://localhost:1313/guides/notetaking-in-text-files/</link>
-      <pubDate>Thu, 09 Jan 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/guides/notetaking-in-text-files/</guid>
-      <description>&lt;p&gt;To be added.&lt;/p&gt;</description>
+      <description>&lt;p&gt;&lt;strong&gt;Systems Administration · Automation · Infrastructure · Legal Insight · Regulatory Compliance&lt;/strong&gt;&lt;/p&gt;&#xA;&lt;h2 id=&#34;who-i-am&#34;&gt;Who I Am&lt;/h2&gt;&#xA;&lt;p&gt;I’m &lt;strong&gt;Salahiddin&lt;/strong&gt;, though most people just call me &lt;strong&gt;Sal&lt;/strong&gt;. I work as a &lt;strong&gt;Systems Administrator&lt;/strong&gt; and &lt;strong&gt;Regulatory Compliance Consultant&lt;/strong&gt;, with a focus on keeping infrastructure reliable, secure, and easy to manage. My background is a little unusual. I studied computer science, along with law and socio-legal studies. This gave me both the technical skills to work with systems and the analytical skills to think critically about the rules, policies, and people around them.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Contact Me</title>
