@@ -1,5 +1,5 @@
 baseURL = "http://localhost:1313/"
-title   = "Hello"
+title   = "Hellotest"
 languageCode = "en-ca"
 
 PygmentsCodeFences = true
