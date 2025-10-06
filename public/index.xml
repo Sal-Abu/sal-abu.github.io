@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Hellotest</title>
+    <title>Hello</title>
     <link>http://localhost:1313/</link>
-    <description>Recent content on Hellotest</description>
+    <description>Recent content on Hello</description>
     <generator>Hugo</generator>
     <language>en</language>
     <copyright>&lt;a href=&#34;https://creativecommons.org/licenses/by-nc/4.0/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;CC BY-NC 4.0&lt;/a&gt;</copyright>
@@ -14,7 +14,7 @@
       <link>http://localhost:1313/guides/notetaking-in-obsidian/</link>
       <pubDate>Thu, 02 Oct 2025 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/guides/notetaking-in-obsidian/</guid>
-      <description>&lt;p&gt;To be added&lt;/p&gt;</description>
+      <description>&lt;p&gt;&lt;img src=&#34;http://localhost:1313/guides/notetaking-in-obsidian/image.png&#34; alt=&#34;image&#34;&gt;&lt;/p&gt;&#xA;&lt;h1 id=&#34;what-is-obsidian&#34;&gt;What is Obsidian&lt;/h1&gt;&#xA;&lt;p&gt;Obsidian is a powerful knowledge management tool that lets you create a fully customized, personal workspace. It’s perfect for students, professionals, and anyone who wants to organize their notes, tasks, and projects efficiently, all while keeping full control of your data.&lt;/p&gt;&#xA;&lt;hr&gt;&#xA;&lt;h2 id=&#34;why-its-useful&#34;&gt;Why It’s Useful&lt;/h2&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&lt;strong&gt;Keeps information evergreen:&lt;/strong&gt; Notes stay relevant because linking them together forms a web of interconnected knowledge.&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;Incredibly customizable:&lt;/strong&gt; Every part of Obsidian can be tailored to fit your workflow.&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;Cross-platform:&lt;/strong&gt; Works seamlessly on both laptops and phones.&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;Plugin ecosystem:&lt;/strong&gt; Add powerful new features and automations through the community plugin system.&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;hr&gt;&#xA;&lt;h2 id=&#34;installing-obsidian&#34;&gt;Installing Obsidian&lt;/h2&gt;&#xA;&lt;ol&gt;&#xA;&lt;li&gt;Go to the &lt;a href=&#34;https://obsidian.md/&#34;&gt;Obsidian website&lt;/a&gt;.&lt;/li&gt;&#xA;&lt;li&gt;Download the version for your operating system (Windows, macOS, or Linux).&lt;/li&gt;&#xA;&lt;li&gt;Install the app using the standard installer for your platform.&lt;/li&gt;&#xA;&lt;li&gt;On first launch, create a &lt;strong&gt;Vault&lt;/strong&gt; (your main folder for notes). You can name it something like &lt;code&gt;Obsidian Desktop&lt;/code&gt;.&lt;/li&gt;&#xA;&lt;/ol&gt;&#xA;&lt;p&gt;You now have the base setup ready.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Building a Simple, Elegant, and Customizable Notetaking and Management System using Text Files and Shell Scripts</title>
