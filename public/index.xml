@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Hello</title>
+    <title>Hellotest</title>
     <link>http://localhost:1313/</link>
-    <description>Recent content on Hello</description>
+    <description>Recent content on Hellotest</description>
     <generator>Hugo</generator>
     <language>en</language>
     <copyright>&lt;a href=&#34;https://creativecommons.org/licenses/by-nc/4.0/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;CC BY-NC 4.0&lt;/a&gt;</copyright>
@@ -45,20 +45,6 @@
       <description>&lt;p&gt;&lt;img src=&#34;http://localhost:1313/projects/framework-laptop-13-ortholiner-trackpoint-keyboard/image.png&#34; alt=&#34;image&#34;&gt;&lt;/p&gt;&#xA;&lt;p&gt;I have a problem: I’m very particular about how my keyboards feel.&lt;/p&gt;&#xA;&lt;p&gt;Since I travel a lot, I use laptops more than desktops, which means I’m often stuck with laptop keyboards. After trying plenty of machines, I landed on ThinkPads. Their keyboards and TrackPoints make it so much easier to move around my workspace while keeping my hands in place on the home row.&lt;/p&gt;&#xA;&lt;p&gt;Now I can’t go back to a keyboard without a TrackPoint. The issue is that I want features that no modern ThinkPad will give me.&lt;/p&gt;</description>
     </item>
     <item>
-      <title>Phones and Modern Tech Are Needlessly Evil</title>
-      <link>http://localhost:1313/posts/2025/08/phones-and-modern-tech-are-needlessly-evil/</link>
-      <pubDate>Sun, 03 Aug 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/posts/2025/08/phones-and-modern-tech-are-needlessly-evil/</guid>
-      <description>&lt;p&gt;Everyone carries a phone these days. It connects us, entertains us, and helps us work. On the surface, it feels like a miracle tool. But the truth underneath is darker. Phones and modern technology are not just harmful, they are &lt;em&gt;needlessly&lt;/em&gt; harmful. The way the industry works ensures waste, exploitation, and manipulation. None of it is inevitable. It happens because it makes money.&lt;/p&gt;&#xA;&lt;h2 id=&#34;the-human-cost-of-materials&#34;&gt;The Human Cost of Materials&lt;/h2&gt;&#xA;&lt;p&gt;Every phone starts with raw materials like cobalt, lithium, and rare earth elements. These resources don’t come free. Many are mined in places where conflict, child labor, and human rights abuses are widespread. In the Democratic Republic of the Congo, industrial cobalt and copper mining has led to forced evictions, unsafe conditions, and severe abuses of human rights. &lt;a href=&#34;https://www.amnesty.org/en/latest/news/2023/09/drc-cobalt-and-copper-mining-for-batteries-leading-to-human-rights-abuses/&#34;&gt;Amnesty International reports&lt;/a&gt; detail how entire communities are displaced and rights violated.&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Why Women Fear Men and Why Men Misunderstand That Fear</title>
-      <link>http://localhost:1313/posts/2025/06/why-women-fear-men-and-why-men-misunderstand-that-fear/</link>
-      <pubDate>Sun, 29 Jun 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/posts/2025/06/why-women-fear-men-and-why-men-misunderstand-that-fear/</guid>
-      <description>&lt;h2 id=&#34;introduction&#34;&gt;Introduction&lt;/h2&gt;&#xA;&lt;p&gt;A lot of young men get frustrated when women treat them with suspicion or guardedness. They read that as unfair, irrational, or even hostile. I have seen this reaction often: the sense that women are being cold or unjust, that men are being punished for the crimes of others. And yet, beneath the surface, the fear women carry is not irrational. It is rooted in lived reality, in the mental habits women are forced to adopt, and in the way society amplifies certain dangers.&lt;/p&gt;</description>
-    </item>
-    <item>
       <title>About Me</title>
       <link>http://localhost:1313/about/</link>
       <pubDate>Thu, 09 Jan 2025 00:00:00 +0000</pubDate>
@@ -71,13 +57,6 @@
       <pubDate>Thu, 09 Jan 2025 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/contact/</guid>
       <description>&lt;p&gt;I’d love to hear from you! Whether you’re reaching out for professional inquiries, collaborations, or just to connect, here are the best ways to get in touch:&lt;/p&gt;&#xA;&lt;hr&gt;&#xA;&lt;h2 id=&#34;-email&#34;&gt;📧 Email&lt;/h2&gt;&#xA;&lt;p&gt;&lt;a href=&#34;mailto:salahiddin.abubakar@gmail.com&#34;&gt;salahiddin.abubakar@gmail.com&lt;/a&gt;&lt;/p&gt;&#xA;&lt;hr&gt;&#xA;&lt;h2 id=&#34;-linkedin&#34;&gt;💼 LinkedIn&lt;/h2&gt;&#xA;&lt;p&gt;&lt;a href=&#34;https://www.linkedin.com/in/salahiddin-abubakar/&#34;&gt;www.linkedin.com/in/salahiddin-abubakar/&lt;/a&gt;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Contradictions in Holy Texts Are, For The Most Part, Irrelevant</title>
-      <link>http://localhost:1313/posts/2025/01/contradictions-in-holy-texts-are-for-the-most-part-irrelevant/</link>
-      <pubDate>Thu, 09 Jan 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/posts/2025/01/contradictions-in-holy-texts-are-for-the-most-part-irrelevant/</guid>
-      <description>&lt;h2 id=&#34;the-bottom-line&#34;&gt;The Bottom Line&lt;/h2&gt;&#xA;&lt;p&gt;The Bible, and any anthology of holy texts really, are collections of stories from an ancient culture. Stories designed to shape the moral temperance of their people. They do not serve to function as legal codes or IKEA-style instruction manuals. “Do this, don’t do that”; this is not the mode of guidance they were built for.&lt;/p&gt;&#xA;&lt;p&gt;Indeed, the characters in these stories sometimes make contradictory claims, and sometimes God himself, as written, seems to say one thing in one book and the opposite in another. But holy texts are stories, filtered through cultural lenses, told and retold by generations who added their own flavor, and further guidance to those stories which would be told to the next. They aren&amp;rsquo;t and were never intended to be read like airtight technical documents.&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>
